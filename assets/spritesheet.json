@@ -1,0 +1,8 @@
+{
+  "textures": {
+    "menu": {
+      "start_btn" : "assets/test.jpg"
+    }
+
+  }
+}
